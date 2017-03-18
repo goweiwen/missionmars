@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "botbuilder": "^3.7.0",
     "nodemailer": "^3.1.7",
     "nodemailer-wellknown": "^0.2.2",
     "request-promise": "^4.2.0",
